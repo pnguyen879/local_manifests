@@ -11,5 +11,5 @@
   <!-- Lineage HW repos -->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-15.1" remote="github" />
   <!-- Linaro BSP -->
-  <project name="LineageOS/android_hardware_samsung_slsi_exynos7420" path="hardware/samsung_slsi/exynos7420" revision="lineage-15.1" remote="github"/>
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" revision="lineage-15.1" remote="github"/>
 </manifest>
