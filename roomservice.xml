@@ -2,8 +2,8 @@
     <!-- Device Trees -->
     <!-- 7420 -->
     <project name="samsungexynos7420/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="lineage-19.1-update-2.0"/>
-    <project name="samsungexynos7420/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-19.1"/>
-    <project name="samsungexynos7420/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" revision="lineage-19.1-update-2.0"/>
+    <project name="samsungexynos7420/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-19.1-update-2.0"/>
+    <project name="samsungexynos7420/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" revision="lineage-19.1"/>
     <!-- Sepolicy -->
     <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-19.1"/>
     <!-- Kernel -->
