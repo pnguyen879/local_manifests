@@ -3,7 +3,7 @@
     <!-- 7420 -->
     <project name="samsungexynos7420/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="lineage-18.1"/>
     <project name="samsungexynos7420/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-18.1"/>
-    <project name="samsungexynos7420/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" revision="lineage-18.1"/>
+    <project name="pnguyen879/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" revision="lineage-18.1"/>
     <!-- Sepolicy -->
     <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-18.1"/>
     <!-- Kernel -->
