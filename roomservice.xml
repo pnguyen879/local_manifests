@@ -10,7 +10,7 @@
     <!-- 7420 -->
     <project name="samsungexynos7420/android_kernel_samsung_universal7420" path="kernel/samsung/universal7420" remote="github" revision="lineage-18.1"/>
     <!-- Vendor Blobs -->
-    <project name="samsungexynos7420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-18.1"/>
+    <project name="pnguyen879/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-18.1"/>
     <!-- Lineage Hardware Repositories -->
     <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1"/>
     <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="github" revision="lineage-18.1"/>
