@@ -8,7 +8,7 @@
     <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-18.1"/>
     <!-- Kernel -->
     <!-- 7420 -->
-    <project name="pnguyen879/android_kernel_samsung_universal7420" path="kernel/samsung/universal7420" remote="github" revision="lineage-18.1"/>
+    <project name="samsungexynos7420/android_kernel_samsung_universal7420" path="kernel/samsung/universal7420" remote="github" revision="lineage-20-new"/>
     <!-- Vendor Blobs -->
     <project name="pnguyen879/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-18.1"/>
     <!-- Lineage Hardware Repositories -->
