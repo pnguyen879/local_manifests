@@ -1,23 +1,12 @@
 <manifest>
     <!-- Device Trees -->
-    <!-- 7420 -->
     <project name="samsungexynos7420/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="lineage-20-new"/>
     <project name="samsungexynos7420/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-20-new"/>
     <project name="samsungexynos7420/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" revision="lineage-20-new"/>
-    <!-- Sepolicy -->
-    <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-21"/>
     <!-- Kernel -->
-    <!-- 7420 -->
     <project name="samsungexynos7420/android_kernel_samsung_universal7420" path="kernel/samsung/universal7420" remote="github" revision="lineage-20-new"/>
     <!-- Vendor Blobs -->
     <project name="samsungexynos7420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-20-new"/>
     <!-- Lineage Hardware Repositories -->
-    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-21"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="github" revision="lineage-20_13-e850-96"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" remote="github" revision="lineage-20_13-e850-96"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="github" revision="lineage-20_13-e850-96"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="github" revision="lineage-20-13"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="github" revision="lineage-20_13-e850-96"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" remote="github" revision="lineage-20_13-e850-96"/>
-    <project name="samsungexynos7420/android_hardware_samsung_slsi-linaro_codec2" path="hardware/samsung_slsi-linaro/codec2" remote="github" revision="lineage-20_13-e850-96"/>
+    <project name="LineageOS/android_hardware_lge" path="hardware/lge" remote="github" revision="lineage-21"/>
 </manifest>
