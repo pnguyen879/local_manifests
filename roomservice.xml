@@ -2,8 +2,6 @@
     <!-- Device Trees -->
     <project name="pnguyen879/android_device_lge_tmelm" path="device/lge/timelm" remote="github" revision="lineage-21"/>
     <project name="pnguyen879/android_device_lge_sm8250-common" path="device/lge/sm8250-common" remote="github" revision="lineage-21"/>
-    <!-- Sepolicy -->
-    <project name="LineageOS/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="lineage-21"/>
     <!-- Kernel -->
     <project name="pnguyen879/android_kernel_lge_sm8250" path="kernel/lge/sm8250" remote="github" revision="lineage-21"/>
     <!-- Vendor Blobs -->
