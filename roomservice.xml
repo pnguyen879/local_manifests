@@ -1,12 +1,17 @@
 <manifest>
     <!-- Device Trees -->
     <project name="pnguyen879/android_device_lge_timelm" path="device/lge/timelm" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/android_device_lge_mh2lm" path="device/lge/mh2lm" remote="github" revision="lineage-21"/>
     <project name="pnguyen879/android_device_lge_sm8250-common" path="device/lge/sm8250-common" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/android_device_lge_sm8150-common" path="device/lge/sm8150-common" remote="github" revision="lineage-21"/>
     <!-- Kernel -->
     <project name="pnguyen879/android_kernel_lge_sm8250" path="kernel/lge/sm8250" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/android_kernel_lge_sm8150" path="kernel/lge/sm8150" remote="github" revision="lineage-21"/>
     <!-- Vendor Blobs -->
     <project name="pnguyen879/proprietary_vendor_lge_timelm" path="vendor/lge/timelm" remote="github" revision="lineage-21"/>
     <project name="pnguyen879/proprietary_vendor_lge_sm8250-common" path="vendor/lge/sm8250-common" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/proprietary_vendor_lge_mh2lm" path="vendor/lge/mh2lm" remote="github" revision="lineage-20"/>
+    <project name="LineageOS/proprietary_vendor_lge_sm8150-common" path="vendor/lge/sm8150-common" remote="github" revision="lineage-20"/>
     <!-- Lineage Hardware Repositories -->
     <project name="LineageOS/android_hardware_lge" path="hardware/lge" remote="github" revision="lineage-21"/>
 </manifest>
