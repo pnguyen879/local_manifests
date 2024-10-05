@@ -1,6 +1,7 @@
 <manifest>
     <!-- Device Trees -->
-    <project name="LineageOS/android_device_samsung_zerofltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-15.1"/>
     <project name="LineageOS/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="lineage-15.1"/>
     <!-- Kernel -->
     <project name="LineageOS/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="lineage-15.1"/>
