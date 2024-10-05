@@ -1,12 +1,16 @@
 <manifest>
     <!-- Device Trees -->
-    <project name="LineageOS/android_device_lge_mh2lm" path="device/lge/mh2lm" remote="github" revision="lineage-21"/>
-    <project name="LineageOS/android_device_lge_sm8150-common" path="device/lge/sm8150-common" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/android_device_samsung_zerofltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="lineage-15.1"/>
     <!-- Kernel -->
-    <project name="LineageOS/android_kernel_lge_sm8150" path="kernel/lge/sm8150" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="lineage-15.1"/>
     <!-- Vendor Blobs -->
-    <project name="TheMuppets/proprietary_vendor_lge_mh2lm" path="vendor/lge/mh2lm" remote="github" revision="lineage-20"/>
-    <project name="TheMuppets/proprietary_vendor_lge_sm8150-common" path="vendor/lge/sm8150-common" remote="github" revision="lineage-20"/>
+    <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1"/>
     <!-- Lineage Hardware Repositories -->
-    <project name="LineageOS/android_hardware_lge" path="hardware/lge" remote="github" revision="lineage-21"/>
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="github" revision="lineage-15.1"/>
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1"/>
 </manifest>
