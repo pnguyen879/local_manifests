@@ -15,7 +15,7 @@
   <!-- SLSI Exynos BSP -->
   <project path="hardware/samsung_slsi-linaro/exynos" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos" remote="github" revision="lineage-19.1-new" />
   <project path="hardware/samsung_slsi-linaro/exynos5" name="8890q/android_hardware_samsung_slsi-linaro_exynos5" remote="github" revision="lineage-19.1" />
-  <project path="hardware/samsung_slsi-linaro/openmax" name="8890q/android_hardware_samsung_slsi-linaro_openmax" remote="github" revision="lineage-19.1" />
+  <project path="hardware/samsung_slsi-linaro/openmax" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_openmax" remote="github" revision="lineage-19.1" />
   <project path="hardware/samsung_slsi-linaro/graphics" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_graphics" remote="github" revision="lineage-19.1-new" />
   <project path="hardware/samsung_slsi-linaro/config" name="pnguyen879/android_hardware_samsung_slsi-linaro_config" remote="github" revision="lineage-19.1" />
 </manifest>
